@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.invofox",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Utility", "Data & Storage"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/invofox/n8n-nodes-invofox?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://developers.invofox.com/api-reference"
+			}
+		]
+	}
+}
