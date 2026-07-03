@@ -1,4 +1,8 @@
-# n8n-nodes-invofox
+<p align="center">
+  <img src="https://raw.githubusercontent.com/invofox/n8n-nodes-invofox/main/nodes/Invofox/invofox.svg" alt="Invofox" width="88" height="88" />
+</p>
+
+<h1 align="center">n8n-nodes-invofox</h1>
 
 This is an n8n community node. It lets you use [Invofox](https://invofox.com/) in your n8n workflows.
 
